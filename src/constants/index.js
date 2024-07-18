@@ -16,12 +16,9 @@ import {
   figma,
   docker,
   birdIcon,
+  krowd,
   inspektlabs,
   praktice,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
   carrent,
   jobit,
   tripguide,
@@ -124,10 +121,24 @@ const technologies = [
 const experiences = [
   {
     title: "Senior Software Developer",
+    company_name: "Krowd",
+    icon: krowd,
+    iconBg: "#FFFFFF",
+    date: "Sep 2023 - Present",
+    points: [
+      "Developed a recommendation system that suggests restaurants based on user events, enhancing user engagement and satisfaction within the application.",
+      "Streamlined a critical transaction pipeline by refining data processing and validation, creating a single source of truth for data access and utilization across teams",
+      "Participate in strategic planning for technology initiatives, defining key parameters and decisions for new projects and improvements.",
+      "Contribute to both backend services and frontend development using technologies such as FastAPI, NestJS, and React, ensuring robust and scalable applications.",
+      "Manage DevOps tasks and cloud operations, enhancing deployment processes and maintaining efficient cloud infrastructure."
+    ],
+  },
+  {
+    title: "Senior Software Developer",
     company_name: "Text Mercato",
     icon: birdIcon,
     iconBg: "#E6DEDD",
-    date: "Aug 2022 - Present",
+    date: "Aug 2022 - Sep 2023",
     points: [
       "Developed a dynamic price comparison and template conversion tool from scratch as a senior software engineer.",
       "Implemented intuitive user interfaces using modern frontend frameworks to ensure a seamless user experience.",
