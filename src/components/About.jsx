@@ -42,9 +42,9 @@ const About = () => {
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        I'm a skilled Full Stack Developer with experience in TypeScript, Python and
+        I'm a skilled Senior Software Engineer with experience in TypeScript, Python and
         JavaScript, and expertise in frameworks like React, Nest.js, Kubernetes and
-        Flask. I'm a quick learner and adept at collaborating with cross-functional teams and clients 
+        Fastapi. I'm a quick learner and adept at collaborating with cross-functional teams and clients 
         to identify requirements, design solutions, and implement scalable and robust applications.<br></br>
         Let's work together to bring your ideas to life!
       </motion.p>
