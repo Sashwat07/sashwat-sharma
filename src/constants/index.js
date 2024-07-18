@@ -39,7 +39,7 @@ export const navLinks = [
     title: "Contact",
   },
   {
-    id:"Sashwat_Sharma.pdf",
+    id:"Sashwat_Resume.pdf",
     title: "Resume"
   }
 ];
